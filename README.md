@@ -6,7 +6,7 @@ Some applications of Dynamic Programming in Python
 Consider the following 6x6 grid:
 
 
-<img src="images/2.png" width="500"/>
+<img src="images/2.png" width="350"/>
 
 
 A mover wants to travel from point A to point B. During this journey, the mover can always move in three directions: down, diagonal, and right. Additionally, there is no restriction on the number of cells traversed in each direction. For example, in the first move, the mover can move from 1 to 5 cells downward. Along the path, there are obstacles that the mover must avoid. An example of the distance traveled by the mover is indicated in red.
